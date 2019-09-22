@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="slogan">Wisata jadi lebih asyik :)</string>
+    <string name="signin">SIGN IN</string>
+    <string name="newacc">NEW ACCOUNT</string>
+    <string name="discover">Discover \nThe Beauty \nOf The Earth</string>
+    <string name="desc">Tiket Saya</string>
+
 </resources>
