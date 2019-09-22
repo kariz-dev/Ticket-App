@@ -4,9 +4,11 @@
     <color name="colorPrimaryDark">#203dd1</color>
     <color name="colorAccent">#D81B60</color>
 
-    <color name="bluePrimary">#203dd1</color>
+    <color name="bluePrimary">#3650CC</color>
+    <color name="blueSecondary">#122592</color>
     <color name="grayPrimary">#8d8d8d</color>
 
     <color name="white">#fff</color>
+    <color name="black">#21272c</color>
 
 </resources>

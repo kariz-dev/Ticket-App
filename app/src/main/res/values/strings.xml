@@ -5,5 +5,7 @@
     <string name="newacc">NEW ACCOUNT</string>
     <string name="discover">Discover \nThe Beauty \nOf The Earth</string>
     <string name="desc">Tiket Saya</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
 
 </resources>
